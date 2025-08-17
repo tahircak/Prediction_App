@@ -1,0 +1,16 @@
+{
+  "app_title": "Futbol Tahminleri",
+  "login": "Giriş",
+  "email": "E-posta",
+  "password": "Şifre",
+  "register": "Kayıt Ol",
+  "logout": "Çıkış",
+  "matches_today": "Günün Maçları",
+  "premium": "Premium",
+  "free": "Ücretsiz",
+  "subscribe": "Üyelik",
+  "prediction_hidden": "Tahmin (üyeler için)",
+  "tip": "Tahmin",
+  "confidence": "Güven",
+  "odds": "Oran"
+}

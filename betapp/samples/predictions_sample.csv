@@ -1,0 +1,2 @@
+match_id,match_date_utc,league,home_team,away_team,kickoff_utc,tip_type,tip_value,confidence_percent,odds_decimal,analysis_note,is_premium
+12345,2025-01-31,Super Lig,Fenerbahce,Galatasaray,2025-01-31T17:00:00Z,over_under,Over 2.5,72,1.85,Derbi,True

@@ -1,0 +1,301 @@
+match_id,match_date_utc,league,home_team,away_team,kickoff_utc,tip_type,tip_value,confidence_percent,odds_decimal,analysis_note,is_premium
+1,2025-08-21,Primeira Liga,Marseille,RB Leipzig,2025-08-21T19:45:29Z,away_win,X2,87,1.56,Seyirci desteği,false
+2,2025-08-26,Coppa Italia,Napoli,Lazio,2025-08-26T21:30:29Z,away_win,X2,70,2.91,Ev sahibi avantajı,true
+3,2025-09-07,Conference League,Wolfsburg,Nice,2025-09-07T19:45:29Z,home_win,1,94,2.85,Lig pozisyonu baskısı,true
+4,2025-09-03,Serie A,Liverpool,Real Madrid,2025-09-03T16:15:29Z,away_win,2,60,1.62,Motivasyon yüksek,false
+5,2025-08-30,FA Cup,Villarreal,Napoli,2025-08-30T20:30:29Z,both_teams_score,No,71,2.99,Lig pozisyonu baskısı,true
+6,2025-08-30,Bundesliga,Marseille,Sevilla,2025-08-30T18:45:29Z,away_win,X2,95,2.82,Sakatlık sorunları,false
+7,2025-08-16,Primeira Liga,Ajax,RB Leipzig,2025-08-16T19:00:29Z,over_under,Over 1.5,84,2.97,Ev sahibi avantajı,true
+8,2025-08-26,Serie A,Marseille,Inter Milan,2025-08-26T16:15:29Z,away_win,X2,66,1.87,Motivasyon yüksek,false
+9,2025-08-31,Europa League,RB Leipzig,Porto,2025-08-31T17:15:29Z,both_teams_score,Yes,78,2.72,Sakatlık sorunları,false
+10,2025-09-12,La Liga,Ajax,Villarreal,2025-09-12T22:00:29Z,draw,1X,73,2.1,Ev sahibi avantajı,false
+11,2025-08-30,Coppa Italia,Monaco,Roma,2025-08-30T21:45:29Z,both_teams_score,Yes,86,2.87,Motivasyon yüksek,true
+12,2025-08-29,Champions League,Rennes,PSV,2025-08-29T20:45:29Z,correct_score,2-2,91,2.31,Ev sahibi avantajı,false
+13,2025-08-19,Premier Lig,Benfica,RB Leipzig,2025-08-19T19:15:29Z,draw,X2,70,1.75,Lig pozisyonu baskısı,false
+14,2025-09-10,FA Cup,AC Milan,Monaco,2025-09-10T16:15:29Z,home_win,12,85,2.2,Ev sahibi avantajı,true
+15,2025-08-18,Europa League,Lyon,Atletico Madrid,2025-08-18T14:45:29Z,home_win,1,85,2.84,Teknik direktör değişikliği,false
+16,2025-08-18,Serie A,Borussia Dortmund,Roma,2025-08-18T19:45:29Z,over_under,Over 3.5,79,2.77,Lig pozisyonu baskısı,false
+17,2025-08-31,Premier Lig,Lazio,Monaco,2025-08-31T17:00:29Z,draw,X,70,2.7,Taktik avantaj,false
+18,2025-08-31,La Liga,Marseille,Juventus,2025-08-31T19:15:29Z,both_teams_score,Yes,93,2.6,Avrupa kupası yorgunluğu,true
+19,2025-08-30,Eredivisie,PSV,Chelsea,2025-08-30T20:45:29Z,away_win,X2,65,1.57,Transfer dönemi etkisi,false
+20,2025-09-09,Premier Lig,Lyon,AC Milan,2025-09-09T15:30:29Z,home_win,1X,82,2.56,Avrupa kupası yorgunluğu,true
+21,2025-08-23,La Liga,Real Madrid,Arsenal,2025-08-23T20:00:29Z,correct_score,1-1,95,2.59,Motivasyon yüksek,true
+22,2025-08-30,Eredivisie,Benfica,Rennes,2025-08-30T16:15:29Z,home_win,12,86,2.02,Transfer dönemi etkisi,true
+23,2025-08-22,Conference League,Bayer Leverkusen,Lazio,2025-08-22T17:45:29Z,correct_score,0-0,74,2.49,Motivasyon yüksek,false
+24,2025-09-09,Serie A,Porto,Marseille,2025-09-09T21:30:29Z,both_teams_score,Yes,69,2.66,Transfer dönemi etkisi,false
+25,2025-08-25,La Liga,Ajax,Real Madrid,2025-08-25T17:00:29Z,draw,1X,63,2.86,Taktik avantaj,false
+26,2025-08-21,Serie A,Roma,Manchester City,2025-08-21T19:00:29Z,away_win,12,66,2.91,Avrupa kupası yorgunluğu,true
+27,2025-08-29,Ligue 1,Arsenal,RB Leipzig,2025-08-29T17:30:29Z,over_under,Over 1.5,71,1.59,Form durumu iyi,false
+28,2025-08-25,Champions League,Wolfsburg,PSG,2025-08-25T17:15:29Z,draw,X2,94,2.45,Seyirci desteği,false
+29,2025-08-17,La Liga,Napoli,PSV,2025-08-17T16:45:29Z,over_under,Under 3.5,86,1.81,Motivasyon yüksek,false
+30,2025-09-08,La Liga,Liverpool,Lyon,2025-09-08T18:15:29Z,over_under,Over 2.5,68,2.66,Form durumu iyi,false
+31,2025-09-04,Europa League,Bayern Munich,Lyon,2025-09-04T19:30:29Z,correct_score,2-2,64,1.91,Motivasyon yüksek,false
+32,2025-08-18,Conference League,Bayer Leverkusen,Lyon,2025-08-18T22:15:29Z,both_teams_score,No,84,2.57,Motivasyon yüksek,true
+33,2025-08-19,Primeira Liga,Rennes,Villarreal,2025-08-19T17:00:29Z,away_win,12,72,2.15,Motivasyon yüksek,true
+34,2025-09-02,DFB Pokal,Tottenham,PSG,2025-09-02T14:00:29Z,correct_score,1-1,72,2.46,Avrupa kupası yorgunluğu,false
+35,2025-09-01,Bundesliga,RB Leipzig,Marseille,2025-09-01T14:00:29Z,correct_score,0-0,83,2.4,Avrupa kupası yorgunluğu,false
+36,2025-08-24,Premier Lig,Benfica,Bayer Leverkusen,2025-08-24T15:45:29Z,correct_score,2-1,93,1.81,Ev sahibi avantajı,false
+37,2025-08-26,Super Lig,Ankaragucu,Karagumruk,2025-08-26T18:30:29Z,home_win,1X,74,2.77,Form durumu iyi,false
+38,2025-09-06,Eredivisie,Marseille,Wolfsburg,2025-09-06T21:15:29Z,home_win,1X,85,2.06,Hava koşulları uygun,false
+39,2025-08-26,Champions League,Rennes,Monaco,2025-08-26T17:00:29Z,correct_score,2-0,62,2.43,Lig pozisyonu baskısı,true
+40,2025-09-12,DFB Pokal,Roma,Chelsea,2025-09-12T17:30:29Z,away_win,2,71,2.94,Ev sahibi avantajı,false
+41,2025-09-13,Copa del Rey,Benfica,Bayer Leverkusen,2025-09-13T15:45:29Z,away_win,2,73,2.47,Ev sahibi avantajı,false
+42,2025-08-21,Ligue 1,Rennes,Atletico Madrid,2025-08-21T20:30:29Z,draw,X2,86,2.81,Lig pozisyonu baskısı,false
+43,2025-09-09,Bundesliga,Juventus,Roma,2025-09-09T22:00:29Z,correct_score,2-1,79,2.14,Avrupa kupası yorgunluğu,false
+44,2025-09-10,Primeira Liga,Juventus,Marseille,2025-09-10T22:00:29Z,draw,X,83,2.33,Hava koşulları uygun,true
+45,2025-09-06,Champions League,Ajax,Borussia Dortmund,2025-09-06T14:00:29Z,home_win,1X,87,2.73,Lig pozisyonu baskısı,true
+46,2025-09-03,Copa del Rey,Ajax,Napoli,2025-09-03T18:00:29Z,over_under,Over 1.5,63,2.25,Transfer dönemi etkisi,false
+47,2025-09-11,Premier Lig,Villarreal,Inter Milan,2025-09-11T16:30:29Z,correct_score,2-1,77,2.91,Motivasyon yüksek,false
+48,2025-08-18,Bundesliga,Benfica,Sevilla,2025-08-18T20:45:29Z,home_win,12,88,2.56,Ev sahibi avantajı,true
+49,2025-08-30,Primeira Liga,Benfica,Lille,2025-08-30T20:45:29Z,over_under,Over 3.5,90,1.65,Sakatlık sorunları,false
+50,2025-09-06,Conference League,Lyon,Barcelona,2025-09-06T20:45:29Z,both_teams_score,Yes,79,1.6,Motivasyon yüksek,true
+51,2025-08-22,Eredivisie,Liverpool,Lazio,2025-08-22T14:45:29Z,both_teams_score,Yes,63,2.45,Ev sahibi avantajı,false
+52,2025-08-23,DFB Pokal,PSV,Sevilla,2025-08-23T15:45:29Z,both_teams_score,Yes,95,2.97,Sakatlık sorunları,false
+53,2025-09-03,DFB Pokal,Inter Milan,Villarreal,2025-09-03T18:15:29Z,both_teams_score,No,83,1.52,Sakatlık sorunları,false
+54,2025-08-28,Ligue 1,Inter Milan,PSG,2025-08-28T17:15:29Z,draw,1X,77,1.89,Motivasyon yüksek,true
+55,2025-09-03,Conference League,AC Milan,Nice,2025-09-03T19:15:29Z,away_win,2,67,2.81,Seyirci desteği,false
+56,2025-09-04,Conference League,Inter Milan,Liverpool,2025-09-04T22:15:29Z,over_under,Over 3.5,88,2.58,Form durumu iyi,false
+57,2025-09-05,Super Lig,Sivasspor,Hatayspor,2025-09-05T18:00:29Z,over_under,Over 3.5,81,2.51,Sakatlık sorunları,false
+58,2025-09-02,Premier Lig,Manchester City,PSV,2025-09-02T17:15:29Z,home_win,12,88,2.65,Form durumu iyi,false
+59,2025-09-07,Champions League,Tottenham,PSG,2025-09-07T20:00:29Z,both_teams_score,No,92,2.17,Form durumu iyi,true
+60,2025-08-18,Copa del Rey,PSV,Porto,2025-08-18T16:00:29Z,away_win,X2,62,2.11,Lig pozisyonu baskısı,false
+61,2025-08-17,Copa del Rey,Lille,Borussia Dortmund,2025-08-17T17:15:29Z,correct_score,0-0,62,1.73,Avrupa kupası yorgunluğu,true
+62,2025-08-18,Primeira Liga,Ajax,Porto,2025-08-18T19:00:29Z,draw,X,75,2.79,Seyirci desteği,false
+63,2025-08-25,Eredivisie,Porto,Juventus,2025-08-25T15:00:29Z,both_teams_score,Yes,90,2.49,Taktik avantaj,false
+64,2025-09-13,Ligue 1,Chelsea,Barcelona,2025-09-13T17:15:29Z,home_win,12,77,2.49,Teknik direktör değişikliği,false
+65,2025-08-24,Europa League,Ajax,Marseille,2025-08-24T17:45:29Z,over_under,Under 3.5,78,2.61,Ev sahibi avantajı,false
+66,2025-09-13,Eredivisie,AC Milan,Ajax,2025-09-13T17:15:29Z,draw,1X,67,1.82,Teknik direktör değişikliği,false
+67,2025-08-15,FA Cup,Bayer Leverkusen,Villarreal,2025-08-15T19:30:29Z,correct_score,3-1,65,1.54,Sakatlık sorunları,true
+68,2025-09-07,Serie A,RB Leipzig,Tottenham,2025-09-07T18:45:29Z,home_win,12,91,1.96,Motivasyon yüksek,false
+69,2025-08-24,Conference League,Liverpool,Juventus,2025-08-24T15:15:29Z,home_win,1,83,2.38,Taktik avantaj,false
+70,2025-08-27,Europa League,Juventus,Real Madrid,2025-08-27T15:15:29Z,home_win,1,72,2.93,Avrupa kupası yorgunluğu,false
+71,2025-08-27,La Liga,Bayer Leverkusen,PSV,2025-08-27T20:30:29Z,both_teams_score,Yes,81,1.9,Ev sahibi avantajı,true
+72,2025-09-07,Conference League,Manchester City,Atletico Madrid,2025-09-07T22:30:29Z,both_teams_score,Yes,67,1.75,Motivasyon yüksek,false
+73,2025-08-22,Ligue 1,Rennes,Chelsea,2025-08-22T14:45:29Z,home_win,1,69,2.57,Avrupa kupası yorgunluğu,false
+74,2025-09-03,Ligue 1,Nice,Chelsea,2025-09-03T15:15:29Z,home_win,1X,61,1.67,Form durumu iyi,false
+75,2025-09-13,Eredivisie,Napoli,Tottenham,2025-09-13T15:15:29Z,over_under,Over 1.5,77,2.26,Teknik direktör değişikliği,true
+76,2025-08-30,Eredivisie,Porto,Real Madrid,2025-08-30T19:00:29Z,both_teams_score,No,81,1.92,Hava koşulları uygun,true
+77,2025-08-19,FA Cup,Ajax,PSV,2025-08-19T15:45:29Z,correct_score,2-1,95,2.35,Transfer dönemi etkisi,false
+78,2025-09-08,FA Cup,Liverpool,Nice,2025-09-08T15:00:29Z,draw,X,71,2.94,Sakatlık sorunları,true
+79,2025-09-04,Primeira Liga,PSG,Valencia,2025-09-04T16:15:29Z,both_teams_score,No,92,2.56,Sakatlık sorunları,false
+80,2025-09-03,Champions League,PSG,Monaco,2025-09-03T20:45:29Z,correct_score,3-2,79,2.53,Teknik direktör değişikliği,true
+81,2025-08-29,Premier Lig,Bayern Munich,Wolfsburg,2025-08-29T17:30:29Z,home_win,1,64,2.75,Ev sahibi avantajı,false
+82,2025-09-06,Eredivisie,Benfica,Marseille,2025-09-06T22:00:29Z,home_win,12,66,1.71,Motivasyon yüksek,true
+83,2025-09-05,DFB Pokal,AC Milan,PSV,2025-09-05T20:30:29Z,both_teams_score,No,88,2.81,Teknik direktör değişikliği,false
+84,2025-08-25,Champions League,Real Madrid,Liverpool,2025-08-25T21:30:29Z,correct_score,2-1,61,1.68,Teknik direktör değişikliği,false
+85,2025-09-09,Ligue 1,Roma,Sevilla,2025-09-09T18:00:29Z,over_under,Under 3.5,73,2.38,Transfer dönemi etkisi,false
+86,2025-08-23,Coppa Italia,Borussia Dortmund,Bayer Leverkusen,2025-08-23T20:30:29Z,draw,X,87,2.8,Hava koşulları uygun,false
+87,2025-09-06,Bundesliga,PSV,Sevilla,2025-09-06T16:00:29Z,both_teams_score,No,85,1.73,Transfer dönemi etkisi,false
+88,2025-09-06,Coppa Italia,PSG,Roma,2025-09-06T17:15:29Z,home_win,12,68,2.02,Derbi atmosferi,false
+89,2025-08-25,DFB Pokal,Lazio,Porto,2025-08-25T18:15:29Z,draw,X,94,1.97,Ev sahibi avantajı,false
+90,2025-08-22,Serie A,Sevilla,Napoli,2025-08-22T14:30:29Z,both_teams_score,No,64,1.8,Lig pozisyonu baskısı,true
+91,2025-08-16,Serie A,Bayern Munich,Marseille,2025-08-16T18:30:29Z,correct_score,2-0,93,1.78,Motivasyon yüksek,false
+92,2025-08-26,Serie A,Tottenham,Arsenal,2025-08-26T21:15:29Z,draw,X,84,2.92,Teknik direktör değişikliği,false
+93,2025-08-18,DFB Pokal,Barcelona,Chelsea,2025-08-18T17:45:29Z,home_win,1X,72,2.62,Teknik direktör değişikliği,false
+94,2025-09-12,Eredivisie,Lazio,Bayer Leverkusen,2025-09-12T19:30:29Z,correct_score,2-2,81,2.2,Taktik avantaj,false
+95,2025-08-17,Eredivisie,Inter Milan,Chelsea,2025-08-17T19:30:29Z,over_under,Under 2.5,75,1.65,Derbi atmosferi,false
+96,2025-09-02,Eredivisie,Wolfsburg,Lyon,2025-09-02T22:15:29Z,both_teams_score,Yes,92,2.38,Lig pozisyonu baskısı,false
+97,2025-08-31,Coppa Italia,RB Leipzig,Napoli,2025-08-31T18:00:29Z,correct_score,2-1,62,2.33,Ev sahibi avantajı,true
+98,2025-08-20,DFB Pokal,Rennes,AC Milan,2025-08-20T20:00:29Z,home_win,1,67,2.63,Avrupa kupası yorgunluğu,false
+99,2025-08-19,Europa League,Napoli,Juventus,2025-08-19T16:45:29Z,over_under,Over 3.5,66,1.78,Lig pozisyonu baskısı,false
+100,2025-09-11,Copa del Rey,Liverpool,Tottenham,2025-09-11T20:45:29Z,correct_score,0-0,84,2.62,Sakatlık sorunları,false
+101,2025-08-30,DFB Pokal,Sevilla,Lazio,2025-08-30T18:00:29Z,both_teams_score,No,95,2.89,Form durumu iyi,false
+102,2025-09-09,FA Cup,Juventus,Bayern Munich,2025-09-09T19:45:29Z,home_win,1X,81,1.91,Transfer dönemi etkisi,false
+103,2025-09-10,Super Lig,Hatayspor,Konyaspor,2025-09-10T18:00:29Z,over_under,Over 2.5,88,1.79,Transfer dönemi etkisi,true
+104,2025-09-05,Super Lig,Besiktas,Rizespor,2025-09-05T15:45:29Z,draw,X,90,2.88,Transfer dönemi etkisi,false
+105,2025-08-22,Champions League,Chelsea,Wolfsburg,2025-08-22T18:30:29Z,correct_score,3-1,94,2.87,Seyirci desteği,false
+106,2025-09-05,DFB Pokal,Wolfsburg,PSG,2025-09-05T21:45:29Z,over_under,Under 3.5,90,2.53,Ev sahibi avantajı,true
+107,2025-08-24,Copa del Rey,Valencia,Lyon,2025-08-24T18:30:29Z,over_under,Under 2.5,77,2.52,Teknik direktör değişikliği,false
+108,2025-08-22,DFB Pokal,Lyon,Borussia Dortmund,2025-08-22T17:30:29Z,over_under,Over 3.5,91,2.32,Ev sahibi avantajı,false
+109,2025-08-27,Eredivisie,Valencia,PSV,2025-08-27T18:45:29Z,both_teams_score,Yes,63,2.28,Derbi atmosferi,false
+110,2025-09-11,Serie A,Manchester City,Barcelona,2025-09-11T16:00:29Z,over_under,Over 2.5,87,2.69,Form durumu iyi,false
+111,2025-08-20,FA Cup,AC Milan,Marseille,2025-08-20T21:00:29Z,draw,X,88,2.58,Avrupa kupası yorgunluğu,false
+112,2025-08-23,Primeira Liga,Barcelona,Juventus,2025-08-23T16:30:29Z,both_teams_score,No,60,2.99,Teknik direktör değişikliği,false
+113,2025-08-24,Eredivisie,Valencia,Nice,2025-08-24T16:30:29Z,over_under,Under 3.5,68,2.94,Avrupa kupası yorgunluğu,true
+114,2025-08-29,Champions League,Wolfsburg,Bayern Munich,2025-08-29T18:30:29Z,over_under,Over 2.5,68,2.57,Form durumu iyi,false
+115,2025-08-29,Bundesliga,Tottenham,Liverpool,2025-08-29T20:45:29Z,correct_score,1-0,69,2.97,Teknik direktör değişikliği,false
+116,2025-08-15,Champions League,Liverpool,Sevilla,2025-08-15T17:30:29Z,draw,1X,65,2.01,Taktik avantaj,false
+117,2025-09-08,FA Cup,Lyon,Porto,2025-09-08T17:00:29Z,draw,X,76,2.76,Form durumu iyi,false
+118,2025-08-28,Primeira Liga,PSV,Chelsea,2025-08-28T17:00:29Z,home_win,1X,76,2.66,Seyirci desteği,true
+119,2025-09-12,La Liga,Borussia Dortmund,Bayern Munich,2025-09-12T22:45:29Z,away_win,12,92,2.42,Hava koşulları uygun,true
+120,2025-08-16,Copa del Rey,Porto,Monaco,2025-08-16T18:00:29Z,draw,X2,68,2.05,Teknik direktör değişikliği,true
+121,2025-08-31,Premier Lig,Inter Milan,Liverpool,2025-08-31T19:30:29Z,draw,X,69,1.64,Avrupa kupası yorgunluğu,false
+122,2025-08-27,Serie A,Napoli,Wolfsburg,2025-08-27T17:15:29Z,correct_score,3-2,94,2.67,Sakatlık sorunları,false
+123,2025-08-28,Ligue 1,Lille,RB Leipzig,2025-08-28T14:00:29Z,home_win,1X,93,1.83,Transfer dönemi etkisi,true
+124,2025-08-28,Champions League,Chelsea,Wolfsburg,2025-08-28T20:45:29Z,draw,1X,70,1.65,Sakatlık sorunları,false
+125,2025-08-24,FA Cup,Porto,Benfica,2025-08-24T14:30:29Z,over_under,Over 2.5,77,2.84,Teknik direktör değişikliği,false
+126,2025-09-01,Bundesliga,Roma,Arsenal,2025-09-01T14:45:29Z,home_win,12,76,1.7,Derbi atmosferi,false
+127,2025-09-10,Super Lig,Adana Demirspor,Besiktas,2025-09-10T20:15:29Z,correct_score,2-1,79,2.8,Taktik avantaj,true
+128,2025-08-23,Copa del Rey,Valencia,Liverpool,2025-08-23T22:15:29Z,both_teams_score,No,67,2.49,Seyirci desteği,false
+129,2025-09-09,Eredivisie,Bayer Leverkusen,Ajax,2025-09-09T14:30:29Z,both_teams_score,Yes,91,2.82,Transfer dönemi etkisi,true
+130,2025-08-19,Copa del Rey,Porto,PSG,2025-08-19T21:15:29Z,away_win,X2,79,2.29,Teknik direktör değişikliği,false
+131,2025-08-20,Eredivisie,Bayern Munich,Benfica,2025-08-20T22:45:29Z,correct_score,1-1,61,2.0,Avrupa kupası yorgunluğu,true
+132,2025-08-20,Ligue 1,Porto,Marseille,2025-08-20T14:15:29Z,away_win,2,74,2.37,Form durumu iyi,false
+133,2025-08-22,Bundesliga,Marseille,PSV,2025-08-22T22:15:29Z,draw,X,84,2.63,Ev sahibi avantajı,false
+134,2025-08-27,DFB Pokal,Nice,Bayer Leverkusen,2025-08-27T22:00:29Z,correct_score,0-0,74,2.3,Form durumu iyi,false
+135,2025-09-02,La Liga,Inter Milan,Monaco,2025-09-02T19:15:29Z,draw,X2,90,2.12,Derbi atmosferi,false
+136,2025-09-03,Champions League,Manchester United,AC Milan,2025-09-03T16:15:29Z,home_win,12,85,2.45,Ev sahibi avantajı,false
+137,2025-09-03,FA Cup,Villarreal,Juventus,2025-09-03T16:45:29Z,correct_score,2-2,69,2.6,Form durumu iyi,false
+138,2025-08-28,Bundesliga,Manchester United,Manchester City,2025-08-28T22:30:29Z,both_teams_score,No,63,2.02,Ev sahibi avantajı,false
+139,2025-08-25,La Liga,Manchester City,Lazio,2025-08-25T15:00:29Z,both_teams_score,No,87,2.56,Taktik avantaj,false
+140,2025-09-07,Europa League,Lyon,Barcelona,2025-09-07T22:15:29Z,correct_score,3-2,73,1.81,Derbi atmosferi,false
+141,2025-09-03,Coppa Italia,Marseille,Atletico Madrid,2025-09-03T20:45:29Z,away_win,12,62,2.29,Seyirci desteği,false
+142,2025-08-22,Serie A,Inter Milan,Wolfsburg,2025-08-22T15:15:29Z,away_win,2,94,1.86,Hava koşulları uygun,false
+143,2025-08-21,Conference League,RB Leipzig,Porto,2025-08-21T17:00:29Z,correct_score,2-1,94,2.44,Derbi atmosferi,false
+144,2025-08-24,Bundesliga,Monaco,Manchester United,2025-08-24T22:00:29Z,over_under,Over 2.5,61,2.53,Sakatlık sorunları,false
+145,2025-08-25,Eredivisie,Barcelona,Atletico Madrid,2025-08-25T14:30:29Z,over_under,Over 3.5,63,1.87,Seyirci desteği,false
+146,2025-08-15,Coppa Italia,Lyon,Juventus,2025-08-15T16:15:29Z,correct_score,2-0,62,1.62,Avrupa kupası yorgunluğu,false
+147,2025-08-26,Premier Lig,Monaco,Villarreal,2025-08-26T15:45:29Z,both_teams_score,Yes,81,2.43,Teknik direktör değişikliği,true
+148,2025-08-23,Ligue 1,RB Leipzig,PSV,2025-08-23T20:00:29Z,correct_score,2-0,84,1.96,Ev sahibi avantajı,true
+149,2025-09-11,Coppa Italia,PSG,Barcelona,2025-09-11T20:15:29Z,draw,X,68,2.81,Seyirci desteği,false
+150,2025-09-07,DFB Pokal,Porto,Chelsea,2025-09-07T18:30:29Z,both_teams_score,No,63,2.67,Lig pozisyonu baskısı,false
+151,2025-09-02,FA Cup,Arsenal,Real Madrid,2025-09-02T18:15:29Z,home_win,1,95,1.9,Form durumu iyi,false
+152,2025-08-16,Eredivisie,Bayer Leverkusen,Real Madrid,2025-08-16T14:30:29Z,away_win,12,87,1.95,Transfer dönemi etkisi,false
+153,2025-09-09,Bundesliga,Lyon,Bayer Leverkusen,2025-09-09T21:45:29Z,correct_score,2-2,70,2.7,Taktik avantaj,false
+154,2025-08-23,Premier Lig,Lazio,AC Milan,2025-08-23T21:45:29Z,correct_score,3-1,69,2.01,Taktik avantaj,true
+155,2025-09-07,Conference League,Real Madrid,Chelsea,2025-09-07T20:30:29Z,over_under,Under 3.5,70,2.5,Avrupa kupası yorgunluğu,false
+156,2025-08-19,Champions League,Marseille,Bayer Leverkusen,2025-08-19T22:45:29Z,correct_score,0-0,74,1.52,Hava koşulları uygun,false
+157,2025-09-04,Serie A,Arsenal,Atletico Madrid,2025-09-04T14:45:29Z,both_teams_score,Yes,68,2.96,Lig pozisyonu baskısı,true
+158,2025-09-01,Bundesliga,Manchester United,Tottenham,2025-09-01T14:00:29Z,draw,X,76,2.8,Transfer dönemi etkisi,true
+159,2025-08-19,Serie A,Marseille,Tottenham,2025-08-19T18:30:29Z,over_under,Over 2.5,74,2.59,Teknik direktör değişikliği,false
+160,2025-09-07,Champions League,Benfica,Tottenham,2025-09-07T20:30:29Z,correct_score,2-0,95,2.51,Motivasyon yüksek,false
+161,2025-09-11,Coppa Italia,Roma,Bayer Leverkusen,2025-09-11T19:45:29Z,away_win,12,83,2.16,Lig pozisyonu baskısı,false
+162,2025-08-21,Serie A,Napoli,AC Milan,2025-08-21T15:00:29Z,correct_score,1-0,75,1.81,Motivasyon yüksek,true
+163,2025-08-22,Eredivisie,Wolfsburg,Manchester City,2025-08-22T20:45:29Z,correct_score,2-2,87,2.41,Teknik direktör değişikliği,false
+164,2025-09-08,La Liga,Barcelona,AC Milan,2025-09-08T15:00:29Z,correct_score,3-2,87,2.76,Avrupa kupası yorgunluğu,false
+165,2025-08-24,Eredivisie,Bayer Leverkusen,PSG,2025-08-24T22:15:29Z,correct_score,3-2,77,2.25,Lig pozisyonu baskısı,false
+166,2025-08-21,Super Lig,Sivasspor,Karagumruk,2025-08-21T18:15:29Z,draw,1X,79,1.79,Taktik avantaj,false
+167,2025-09-11,Eredivisie,Marseille,Atletico Madrid,2025-09-11T22:15:29Z,away_win,2,82,2.27,Lig pozisyonu baskısı,true
+168,2025-08-27,Copa del Rey,Porto,Nice,2025-08-27T19:30:29Z,home_win,12,89,2.9,Sakatlık sorunları,true
+169,2025-08-15,Serie A,Real Madrid,Manchester City,2025-08-15T21:15:29Z,over_under,Under 3.5,74,2.68,Hava koşulları uygun,false
+170,2025-08-24,Conference League,Roma,Lyon,2025-08-24T18:15:29Z,away_win,12,86,2.78,Taktik avantaj,false
+171,2025-08-20,Super Lig,Hatayspor,Alanyaspor,2025-08-20T20:00:29Z,both_teams_score,Yes,88,1.7,Avrupa kupası yorgunluğu,true
+172,2025-08-29,Europa League,Arsenal,Monaco,2025-08-29T21:00:29Z,away_win,2,67,1.84,Avrupa kupası yorgunluğu,true
+173,2025-08-16,Europa League,Monaco,Manchester United,2025-08-16T19:15:29Z,both_teams_score,No,87,2.1,Lig pozisyonu baskısı,false
+174,2025-09-02,Bundesliga,Manchester City,Roma,2025-09-02T18:00:29Z,correct_score,2-1,79,2.18,Lig pozisyonu baskısı,false
+175,2025-08-20,Coppa Italia,Manchester United,Inter Milan,2025-08-20T18:30:29Z,correct_score,2-0,67,2.62,Avrupa kupası yorgunluğu,false
+176,2025-08-30,Champions League,Juventus,Chelsea,2025-08-30T17:15:29Z,draw,X,88,1.71,Teknik direktör değişikliği,true
+177,2025-08-25,Super Lig,Besiktas,Fenerbahce,2025-08-25T14:15:29Z,both_teams_score,Yes,94,1.83,Avrupa kupası yorgunluğu,false
+178,2025-08-18,Champions League,Marseille,Tottenham,2025-08-18T19:00:29Z,draw,1X,78,2.72,Taktik avantaj,false
+179,2025-08-31,Europa League,Benfica,Arsenal,2025-08-31T18:45:29Z,draw,X,95,1.97,Taktik avantaj,false
+180,2025-08-23,Premier Lig,Sevilla,Chelsea,2025-08-23T14:00:29Z,draw,1X,66,1.77,Taktik avantaj,false
+181,2025-08-30,Coppa Italia,Villarreal,Roma,2025-08-30T15:00:29Z,draw,X2,74,1.85,Taktik avantaj,false
+182,2025-09-02,Primeira Liga,Rennes,Manchester City,2025-09-02T14:45:29Z,away_win,2,69,1.8,Teknik direktör değişikliği,false
+183,2025-08-31,Coppa Italia,Wolfsburg,Manchester United,2025-08-31T18:15:29Z,both_teams_score,Yes,85,1.56,Taktik avantaj,true
+184,2025-09-07,Super Lig,Gaziantep FK,Kasimpasa,2025-09-07T18:45:29Z,correct_score,1-1,87,2.33,Avrupa kupası yorgunluğu,true
+185,2025-08-30,Primeira Liga,Roma,Rennes,2025-08-30T16:00:29Z,over_under,Over 1.5,60,2.9,Avrupa kupası yorgunluğu,false
+186,2025-09-07,Serie A,Tottenham,Bayern Munich,2025-09-07T16:15:29Z,away_win,12,64,2.41,Taktik avantaj,false
+187,2025-08-19,Super Lig,Konyaspor,Rizespor,2025-08-19T21:15:29Z,over_under,Under 2.5,94,2.78,Form durumu iyi,true
+188,2025-08-31,Serie A,AC Milan,Inter Milan,2025-08-31T20:30:29Z,correct_score,1-0,93,1.64,Teknik direktör değişikliği,false
+189,2025-08-31,Super Lig,Sivasspor,Besiktas,2025-08-31T22:15:29Z,correct_score,0-0,61,1.95,Taktik avantaj,false
+190,2025-09-01,Super Lig,Hatayspor,Konyaspor,2025-09-01T19:30:29Z,correct_score,2-1,69,1.86,Derbi atmosferi,false
+191,2025-09-13,Primeira Liga,Rennes,AC Milan,2025-09-13T18:15:29Z,away_win,2,66,2.87,Hava koşulları uygun,false
+192,2025-09-04,Champions League,Napoli,Sevilla,2025-09-04T14:00:29Z,over_under,Over 2.5,90,2.71,Avrupa kupası yorgunluğu,false
+193,2025-08-17,DFB Pokal,Atletico Madrid,Borussia Dortmund,2025-08-17T21:30:29Z,correct_score,2-1,81,2.82,Motivasyon yüksek,true
+194,2025-08-24,Copa del Rey,Ajax,Nice,2025-08-24T17:15:29Z,home_win,12,75,2.83,Taktik avantaj,false
+195,2025-09-05,La Liga,RB Leipzig,Lazio,2025-09-05T18:45:29Z,both_teams_score,No,84,2.35,Avrupa kupası yorgunluğu,false
+196,2025-09-02,Coppa Italia,Lyon,Roma,2025-09-02T17:45:29Z,over_under,Over 1.5,93,2.68,Avrupa kupası yorgunluğu,true
+197,2025-09-03,Ligue 1,Rennes,AC Milan,2025-09-03T17:15:29Z,draw,X2,86,1.65,Transfer dönemi etkisi,false
+198,2025-08-21,Primeira Liga,Roma,Lille,2025-08-21T16:00:29Z,away_win,12,92,1.91,Sakatlık sorunları,true
+199,2025-08-17,La Liga,Atletico Madrid,Bayer Leverkusen,2025-08-17T16:45:29Z,both_teams_score,Yes,72,1.96,Form durumu iyi,false
+200,2025-08-24,Conference League,Juventus,Sevilla,2025-08-24T15:30:29Z,correct_score,2-2,80,1.54,Motivasyon yüksek,true
+201,2025-08-31,Ligue 1,Lazio,Rennes,2025-08-31T18:45:29Z,correct_score,2-1,91,2.06,Derbi atmosferi,true
+202,2025-08-15,Serie A,Wolfsburg,Real Madrid,2025-08-15T16:45:29Z,draw,X,82,2.95,Hava koşulları uygun,false
+203,2025-09-06,Bundesliga,Arsenal,Manchester City,2025-09-06T14:30:29Z,home_win,1X,65,2.52,Transfer dönemi etkisi,true
+204,2025-09-01,Conference League,Manchester City,Sevilla,2025-09-01T18:00:29Z,over_under,Under 2.5,84,1.96,Taktik avantaj,false
+205,2025-09-06,DFB Pokal,Ajax,AC Milan,2025-09-06T18:00:29Z,correct_score,3-2,67,2.38,Seyirci desteği,false
+206,2025-08-21,Super Lig,Pendikspor,Hatayspor,2025-08-21T22:15:29Z,draw,1X,83,2.94,Ev sahibi avantajı,false
+207,2025-08-28,Ligue 1,Monaco,RB Leipzig,2025-08-28T15:00:29Z,over_under,Under 3.5,85,1.61,Taktik avantaj,false
+208,2025-09-02,Conference League,Lille,Porto,2025-09-02T15:45:29Z,away_win,X2,80,2.62,Sakatlık sorunları,false
+209,2025-08-17,Champions League,Inter Milan,Borussia Dortmund,2025-08-17T20:45:29Z,both_teams_score,Yes,69,2.91,Form durumu iyi,false
+210,2025-08-29,DFB Pokal,Wolfsburg,Juventus,2025-08-29T21:15:29Z,over_under,Over 2.5,91,1.72,Ev sahibi avantajı,false
+211,2025-08-18,Super Lig,Kayserispor,Besiktas,2025-08-18T20:15:29Z,home_win,1,71,1.83,Motivasyon yüksek,false
+212,2025-08-21,Ligue 1,Porto,Ajax,2025-08-21T17:00:29Z,draw,X,65,2.29,Form durumu iyi,true
+213,2025-08-17,DFB Pokal,Arsenal,Napoli,2025-08-17T21:30:29Z,draw,X2,86,2.42,Motivasyon yüksek,true
+214,2025-09-10,Bundesliga,Napoli,Roma,2025-09-10T16:45:29Z,both_teams_score,Yes,74,1.82,Teknik direktör değişikliği,false
+215,2025-08-15,Primeira Liga,Borussia Dortmund,Arsenal,2025-08-15T18:15:29Z,over_under,Over 2.5,84,2.91,Ev sahibi avantajı,true
+216,2025-09-09,Europa League,Benfica,AC Milan,2025-09-09T18:30:29Z,both_teams_score,Yes,86,1.55,Avrupa kupası yorgunluğu,false
+217,2025-08-20,Serie A,Atletico Madrid,Villarreal,2025-08-20T19:45:29Z,correct_score,1-0,77,2.96,Teknik direktör değişikliği,false
+218,2025-09-07,Premier Lig,Juventus,Arsenal,2025-09-07T22:15:29Z,home_win,1,94,1.63,Motivasyon yüksek,false
+219,2025-08-21,Conference League,Roma,Tottenham,2025-08-21T19:45:29Z,draw,1X,85,1.75,Transfer dönemi etkisi,false
+220,2025-08-15,Conference League,Real Madrid,Barcelona,2025-08-15T15:00:29Z,both_teams_score,Yes,90,1.64,Seyirci desteği,false
+221,2025-08-16,Eredivisie,Roma,Nice,2025-08-16T20:00:29Z,draw,X2,73,2.38,Motivasyon yüksek,false
+222,2025-08-19,Coppa Italia,Nice,RB Leipzig,2025-08-19T19:45:29Z,away_win,2,85,1.6,Seyirci desteği,false
+223,2025-08-29,Coppa Italia,Barcelona,Manchester United,2025-08-29T16:45:29Z,correct_score,3-2,74,2.14,Form durumu iyi,true
+224,2025-08-26,Ligue 1,Liverpool,PSG,2025-08-26T22:00:29Z,draw,X,85,2.68,Teknik direktör değişikliği,false
+225,2025-08-18,Bundesliga,PSG,Rennes,2025-08-18T19:30:29Z,over_under,Under 3.5,61,1.91,Transfer dönemi etkisi,false
+226,2025-08-26,FA Cup,Atletico Madrid,Bayer Leverkusen,2025-08-26T18:30:29Z,both_teams_score,Yes,62,2.49,Avrupa kupası yorgunluğu,false
+227,2025-09-03,Serie A,Bayern Munich,Monaco,2025-09-03T22:45:29Z,draw,1X,85,2.95,Avrupa kupası yorgunluğu,false
+228,2025-09-11,Ligue 1,Chelsea,Villarreal,2025-09-11T20:45:29Z,draw,1X,80,1.82,Taktik avantaj,true
+229,2025-08-29,La Liga,Chelsea,Juventus,2025-08-29T19:15:29Z,over_under,Under 2.5,81,2.41,Taktik avantaj,false
+230,2025-09-04,FA Cup,Liverpool,Tottenham,2025-09-04T18:30:29Z,both_teams_score,No,75,1.79,Lig pozisyonu baskısı,true
+231,2025-09-06,Eredivisie,Napoli,PSG,2025-09-06T22:00:29Z,over_under,Over 2.5,82,2.4,Avrupa kupası yorgunluğu,false
+232,2025-08-17,La Liga,Lyon,Ajax,2025-08-17T21:15:29Z,draw,1X,73,1.64,Sakatlık sorunları,false
+233,2025-09-12,La Liga,Wolfsburg,Arsenal,2025-09-12T14:00:29Z,away_win,12,94,2.97,Form durumu iyi,false
+234,2025-09-13,Ligue 1,Lille,Chelsea,2025-09-13T14:30:29Z,over_under,Under 3.5,70,2.59,Lig pozisyonu baskısı,false
+235,2025-09-11,Eredivisie,AC Milan,Sevilla,2025-09-11T18:30:29Z,over_under,Over 3.5,88,2.14,Ev sahibi avantajı,false
+236,2025-09-09,DFB Pokal,Ajax,PSV,2025-09-09T20:30:29Z,over_under,Under 3.5,76,1.66,Sakatlık sorunları,false
+237,2025-09-01,Ligue 1,PSG,Juventus,2025-09-01T19:45:29Z,over_under,Under 2.5,87,2.83,Motivasyon yüksek,true
+238,2025-08-27,Premier Lig,Borussia Dortmund,Arsenal,2025-08-27T15:45:29Z,both_teams_score,No,80,1.76,Taktik avantaj,true
+239,2025-09-10,Primeira Liga,Liverpool,PSG,2025-09-10T14:15:29Z,home_win,1X,67,2.43,Teknik direktör değişikliği,true
+240,2025-09-03,Super Lig,Sivasspor,Galatasaray,2025-09-03T20:00:29Z,home_win,1X,76,2.26,Seyirci desteği,true
+241,2025-08-21,Ligue 1,Valencia,RB Leipzig,2025-08-21T15:15:29Z,away_win,12,73,2.76,Teknik direktör değişikliği,false
+242,2025-08-29,Serie A,PSV,Liverpool,2025-08-29T17:30:29Z,both_teams_score,Yes,69,2.52,Avrupa kupası yorgunluğu,false
+243,2025-08-26,DFB Pokal,PSG,Benfica,2025-08-26T22:00:29Z,both_teams_score,No,85,2.3,Sakatlık sorunları,false
+244,2025-08-19,DFB Pokal,Bayer Leverkusen,Marseille,2025-08-19T21:00:29Z,away_win,2,94,1.69,Form durumu iyi,true
+245,2025-08-23,Eredivisie,Marseille,Roma,2025-08-23T17:15:29Z,both_teams_score,Yes,95,1.79,Taktik avantaj,false
+246,2025-08-27,Coppa Italia,Ajax,Inter Milan,2025-08-27T21:30:29Z,over_under,Under 3.5,94,1.65,Avrupa kupası yorgunluğu,true
+247,2025-08-26,Premier Lig,Ajax,AC Milan,2025-08-26T20:30:29Z,draw,X2,79,1.52,Motivasyon yüksek,true
+248,2025-08-21,Eredivisie,Benfica,Atletico Madrid,2025-08-21T17:30:29Z,both_teams_score,No,92,1.87,Ev sahibi avantajı,false
+249,2025-08-29,Ligue 1,Roma,Valencia,2025-08-29T19:15:29Z,over_under,Under 2.5,73,2.2,Transfer dönemi etkisi,false
+250,2025-09-05,Copa del Rey,Lazio,Juventus,2025-09-05T16:00:29Z,away_win,X2,77,1.91,Derbi atmosferi,false
+251,2025-08-25,Serie A,RB Leipzig,PSV,2025-08-25T16:45:29Z,over_under,Over 3.5,65,2.68,Sakatlık sorunları,false
+252,2025-08-17,Conference League,Lille,Porto,2025-08-17T19:30:29Z,correct_score,3-2,83,1.66,Form durumu iyi,true
+253,2025-08-27,Bundesliga,Bayer Leverkusen,Porto,2025-08-27T16:30:29Z,correct_score,1-0,76,2.74,Motivasyon yüksek,true
+254,2025-09-06,Primeira Liga,Bayer Leverkusen,Borussia Dortmund,2025-09-06T15:00:29Z,home_win,1X,88,2.03,Teknik direktör değişikliği,false
+255,2025-09-04,Ligue 1,Valencia,PSG,2025-09-04T14:00:29Z,draw,X2,72,1.59,Ev sahibi avantajı,false
+256,2025-08-31,FA Cup,Lyon,Atletico Madrid,2025-08-31T19:45:29Z,draw,X2,89,1.6,Motivasyon yüksek,false
+257,2025-08-18,Bundesliga,Porto,Marseille,2025-08-18T22:30:29Z,both_teams_score,Yes,76,2.73,Transfer dönemi etkisi,false
+258,2025-09-07,Champions League,Lille,Benfica,2025-09-07T22:00:29Z,home_win,12,91,1.62,Taktik avantaj,false
+259,2025-08-31,FA Cup,Villarreal,Bayern Munich,2025-08-31T15:00:29Z,both_teams_score,Yes,71,2.53,Motivasyon yüksek,true
+260,2025-09-08,La Liga,Atletico Madrid,Liverpool,2025-09-08T15:30:29Z,home_win,12,95,2.21,Ev sahibi avantajı,false
+261,2025-09-07,Champions League,Manchester United,Bayern Munich,2025-09-07T17:15:29Z,correct_score,3-1,72,1.92,Teknik direktör değişikliği,false
+262,2025-09-03,Eredivisie,Bayer Leverkusen,Monaco,2025-09-03T17:15:29Z,both_teams_score,No,61,2.44,Transfer dönemi etkisi,false
+263,2025-09-11,FA Cup,Chelsea,Porto,2025-09-11T14:00:29Z,home_win,1X,76,1.68,Taktik avantaj,false
+264,2025-08-19,Primeira Liga,Chelsea,Villarreal,2025-08-19T19:30:29Z,draw,X2,81,1.68,Sakatlık sorunları,false
+265,2025-08-27,Champions League,Atletico Madrid,Manchester United,2025-08-27T22:45:29Z,home_win,1X,81,1.51,Taktik avantaj,false
+266,2025-08-28,Super Lig,Fatih Karagumruk,Trabzonspor,2025-08-28T20:45:29Z,away_win,12,87,2.21,Teknik direktör değişikliği,false
+267,2025-08-17,Conference League,Bayern Munich,PSG,2025-08-17T15:15:29Z,home_win,1X,86,2.04,Teknik direktör değişikliği,true
+268,2025-08-15,Eredivisie,Lille,Lazio,2025-08-15T20:00:29Z,draw,1X,81,2.02,Motivasyon yüksek,false
+269,2025-09-03,Premier Lig,Chelsea,Manchester City,2025-09-03T17:30:29Z,home_win,1,68,2.02,Derbi atmosferi,true
+270,2025-09-05,FA Cup,Villarreal,Lyon,2025-09-05T19:45:29Z,away_win,2,66,1.74,Seyirci desteği,false
+271,2025-09-09,Ligue 1,Liverpool,Arsenal,2025-09-09T19:15:29Z,draw,1X,78,1.62,Avrupa kupası yorgunluğu,false
+272,2025-09-03,Coppa Italia,Inter Milan,Arsenal,2025-09-03T16:15:29Z,home_win,1X,61,1.99,Seyirci desteği,false
+273,2025-08-27,Copa del Rey,Bayern Munich,PSV,2025-08-27T14:15:29Z,correct_score,1-1,90,1.96,Derbi atmosferi,true
+274,2025-09-13,Ligue 1,Rennes,Wolfsburg,2025-09-13T17:00:29Z,draw,X2,70,2.61,Avrupa kupası yorgunluğu,false
+275,2025-08-18,FA Cup,Barcelona,Lazio,2025-08-18T19:45:29Z,away_win,12,83,1.83,Teknik direktör değişikliği,true
+276,2025-09-09,Premier Lig,Wolfsburg,AC Milan,2025-09-09T16:00:29Z,draw,1X,62,2.36,Teknik direktör değişikliği,false
+277,2025-08-24,FA Cup,Benfica,Roma,2025-08-24T19:30:29Z,draw,X2,61,2.3,Sakatlık sorunları,false
+278,2025-08-26,La Liga,Juventus,Lille,2025-08-26T18:45:29Z,both_teams_score,No,66,2.78,Derbi atmosferi,true
+279,2025-09-10,Super Lig,Antalyaspor,Rizespor,2025-09-10T20:45:29Z,both_teams_score,No,68,1.51,Derbi atmosferi,false
+280,2025-09-07,Bundesliga,Manchester City,Liverpool,2025-09-07T17:45:29Z,home_win,1X,62,2.27,Derbi atmosferi,true
+281,2025-09-11,Serie A,Tottenham,AC Milan,2025-09-11T21:45:29Z,over_under,Under 3.5,83,2.9,Teknik direktör değişikliği,false
+282,2025-09-07,Premier Lig,Manchester United,Bayern Munich,2025-09-07T15:45:29Z,away_win,12,81,2.63,Sakatlık sorunları,false
+283,2025-09-02,Copa del Rey,Barcelona,PSV,2025-09-02T21:45:29Z,home_win,1X,78,2.18,Seyirci desteği,false
+284,2025-09-10,FA Cup,Porto,RB Leipzig,2025-09-10T17:15:29Z,both_teams_score,Yes,73,2.57,Lig pozisyonu baskısı,false
+285,2025-09-06,FA Cup,PSG,Barcelona,2025-09-06T14:45:29Z,correct_score,2-2,89,2.16,Seyirci desteği,false
+286,2025-09-01,Eredivisie,Benfica,Juventus,2025-09-01T15:00:29Z,away_win,2,64,2.67,Ev sahibi avantajı,true
+287,2025-09-13,Coppa Italia,Real Madrid,Roma,2025-09-13T21:45:29Z,correct_score,1-1,90,2.53,Lig pozisyonu baskısı,false
+288,2025-08-16,DFB Pokal,PSG,Monaco,2025-08-16T18:00:29Z,home_win,12,82,2.54,Transfer dönemi etkisi,true
+289,2025-09-09,Champions League,Borussia Dortmund,Chelsea,2025-09-09T21:00:29Z,both_teams_score,Yes,64,2.03,Derbi atmosferi,false
+290,2025-09-05,La Liga,Roma,Atletico Madrid,2025-09-05T22:00:29Z,away_win,X2,90,1.84,Avrupa kupası yorgunluğu,false
+291,2025-08-31,La Liga,Juventus,Chelsea,2025-08-31T19:15:29Z,draw,1X,87,2.17,Taktik avantaj,true
+292,2025-08-21,Bundesliga,Bayer Leverkusen,Inter Milan,2025-08-21T14:30:29Z,correct_score,3-1,60,1.83,Transfer dönemi etkisi,true
+293,2025-08-27,Champions League,Napoli,Sevilla,2025-08-27T14:00:29Z,both_teams_score,Yes,90,1.94,Ev sahibi avantajı,false
+294,2025-08-29,Coppa Italia,Manchester United,Napoli,2025-08-29T21:45:29Z,away_win,2,94,1.78,Avrupa kupası yorgunluğu,false
+295,2025-09-12,Primeira Liga,Monaco,Arsenal,2025-09-12T16:45:29Z,home_win,12,93,2.89,Sakatlık sorunları,false
+296,2025-08-21,Super Lig,Fenerbahce,Antalyaspor,2025-08-21T15:45:29Z,home_win,1,61,1.86,Teknik direktör değişikliği,false
+297,2025-08-24,FA Cup,Valencia,Lille,2025-08-24T15:30:29Z,draw,1X,90,1.77,Avrupa kupası yorgunluğu,false
+298,2025-09-05,Serie A,Valencia,Atletico Madrid,2025-09-05T16:45:29Z,home_win,1X,71,2.47,Motivasyon yüksek,false
+299,2025-08-24,Copa del Rey,Benfica,Manchester United,2025-08-24T22:45:29Z,draw,1X,95,2.68,Motivasyon yüksek,false
+300,2025-09-11,Super Lig,Karagumruk,Samsunspor,2025-09-11T19:30:29Z,correct_score,0-0,81,2.92,Transfer dönemi etkisi,true

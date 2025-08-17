@@ -1,0 +1,16 @@
+{
+  "app_title": "Football Predictions",
+  "login": "Login",
+  "email": "Email",
+  "password": "Password",
+  "register": "Register",
+  "logout": "Logout",
+  "matches_today": "Today's Matches",
+  "premium": "Premium",
+  "free": "Free",
+  "subscribe": "Subscription",
+  "prediction_hidden": "Prediction (members only)",
+  "tip": "Tip",
+  "confidence": "Confidence",
+  "odds": "Odds"
+}
